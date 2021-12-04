@@ -13,4 +13,7 @@ export default /** @type {import('astro').AstroUserConfig} */ ({
     '@astrojs/renderer-preact',
     '@astrojs/renderer-svelte',
   ],
+  buildOptions: {
+    site: 'https://andrewwooldridge.xyz'
+  }
 });
