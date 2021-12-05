@@ -6,5 +6,9 @@
   "sancho": {
     "name": "Sancho Panza",
     "image": "/images/sancho.jpg"
+  },
+  "triptych": {
+    "name": "Andrew Wooldridge",
+    "image": "/images/triptych.jpg"
   }
 }

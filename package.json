@@ -6,7 +6,8 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "cmsproxy": "npx netlify-cms-proxy-server"
   },
   "devDependencies": {
     "astro": "^0.21.10",
